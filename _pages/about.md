@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the University of Sheffield, funded by the Department of Computer Science.
+I am a third-year PhD student at the University of Sheffield, funded by the Department of Computer Science.
+
+I am advised by [Dr. José Miguel Rojas](https://jmrojas.github.io/) and [Dr. Donghwan Shin](https://www.dshin.info/home) as a member of [The Testing Research Group](https://www.sheffield.ac.uk/cs/research/groups/testing).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
