@@ -7,6 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-##### Student Volunteer
+<!-- ##### Student Volunteer -->
 
-* **2023:** ICST 2023
+* **Student Volunteer:** ICST 2023

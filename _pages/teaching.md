@@ -13,6 +13,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ##### Teaching Assistant
 
-* COM6516 **Object Oriented Programming and Software Design**, 2023-2024, The University of Sheffield
-* COM31007/4510/6510 **Software Development for Mobile Devices**, 2023-2024, The University of Sheffield
-* COM1003 **Java Programming**, 2022-2023, The University of Sheffield
+* 2024-2025: COM31007/4510/6510 Software Development for Mobile Devices, The University of Sheffield
+* 2023-2024: Object Oriented Programming and Software Design, The University of Sheffield
+* 2023-2024: COM31007/4510/6510 Software Development for Mobile Devices, The University of Sheffield
+* 2022-2023: COM1003 Java Programming, The University of Sheffield
+
