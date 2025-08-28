@@ -36,7 +36,7 @@ main:
     conference: IEEE Conference on Software Testing, Verification and Validation, 2025.
     # pdf: ./assets/files/gu2024ProgrammingAssignments.pdf
 
-  - title: Software Testing for Extended Reality Applications: A Systematic Mapping Study
+  - title: "Software Testing for Extended Reality Applications: A Systematic Mapping Study"
     authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
     conference_short: ASE J.
     conference: Automated Software Engineering, 2025.
