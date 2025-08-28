@@ -18,5 +18,5 @@
 <h4 style="margin:0 10px 0;">Student Volunteer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>IEEE Conference on Software Testing, Verification and Validation (ICST) 2023</autocolor></a></li>
+  <li><autocolor>IEEE Conference on Software Testing, Verification and Validation (ICST) 2023</autocolor></li>
 </ul>
