@@ -21,23 +21,30 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-  - title: An Empirical Study on the Adoption of Scripted GUI Testing for Android Apps
-    authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas
-    conference_short: ASEW
-    conference: IEEE/ACM International Conference on Automated Software Engineering Workshops, 2023
-    # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+  - title: "Software Testing for Extended Reality Applications: A Systematic Mapping Study"
+    authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
+    conference_short: ASE J.
+    conference: Automated Software Engineering, 2025.
+    doi: 10.1007/s10515-025-00523-7
+    pdf: https://arxiv.org/pdf/2501.08909
 
   - title: Can Test Generation and Program Repair Inform Automated Assessment of Programming Projects?
     authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
     conference_short: ICST
     conference: IEEE Conference on Software Testing, Verification and Validation, 2025.
+    doi: 10.1109/ICST62969.2025.10988955
     # pdf: ./assets/files/gu2024ProgrammingAssignments.pdf
 
-  - title: "Software Testing for Extended Reality Applications: A Systematic Mapping Study"
-    authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
-    conference_short: ASE J.
-    conference: Automated Software Engineering, 2025.
-    # pdf: ./assets/files/gu2025XRSoftwareTesting.pdf
+  - title: An Empirical Study on the Adoption of Scripted GUI Testing for Android Apps
+    authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas
+    conference_short: ASEW
+    conference: IEEE/ACM International Conference on Automated Software Engineering Workshops, 2023
+    doi: 10.1109/ASEW60602.2023.00030
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # image: ./assets/img/teaser_example_2.png
+
+
+
+
