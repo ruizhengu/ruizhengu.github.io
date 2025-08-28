@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a third-year PhD student at the University of Sheffield, funded by the School of Computer Science.
+
+I am advised by [Dr. José Miguel Rojas](https://jmrojas.github.io/) and [Dr. Donghwan Shin](https://www.dshin.info/home) as a member of [The Testing Research Group](https://www.sheffield.ac.uk/cs/research/groups/testing).
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Software Testing:** auomated testing, test generation
+- **Extended Reality:** XR glasses
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2025]** Our paper *Software Testing for Extended Reality Applications: A Systematic Mapping Study* has been accepted by the ASE Journal! This work presents the **FIRST** comprehensive survey on software testing approaches for XR applications.
+- **[Dec. 2024]** My paper *Can Test Generation and Program Repair Inform Automated Assessment of Programming Projects?* is accepted by The Education Track at ICST 2025!
+- **[Aug. 2023]** My first paper *An Empirical Study on the Adoption of Scripted GUI Testing for Android Apps* is accepted A-TEST 2023.
 
 {% include_relative _includes/publications.md %}
 
