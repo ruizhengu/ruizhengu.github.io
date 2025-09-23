@@ -21,8 +21,21 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-  - title: "XRintTest: An Automated Framework for User Interaction Testing 
-  in Extended Reality Applications"
+  - title: "A Test Automation Framework for User Interaction in Extended Reality Applications"
+    authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas
+    conference_short: ASEW.
+    conference: 40th IEEE/ACM International Conference on Automated Software Engineering Workshops, 2025.
+    # doi: 10.1007/s10515-025-00523-7
+    pdf: ./assets/files/Gu2025VARSE.pdf
+
+  - title: "On the Promises and Challenges of AI-Powered XR Glasses as Embodied Software"
+    authors: <strong>Ruizhen Gu</strong>, Jingqiong Zhang, José Miguel Rojas, Donghwan Shin
+    conference_short: ASE.
+    conference: 40th IEEE/ACM International Conference on Automated Software Engineering, 2025.
+    # doi: 10.1007/s10515-025-00523-7
+    pdf: ./assets/files/Gu2025AIware.pdf
+
+  - title: "XRintTest: An Automated Framework for User Interaction Testing in Extended Reality Applications"
     authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
     conference_short: ASE.
     conference: 40th IEEE/ACM International Conference on Automated Software Engineering, 2025.
@@ -34,7 +47,7 @@ main:
     conference_short: ASE J.
     conference: Automated Software Engineering, 2025.
     doi: 10.1007/s10515-025-00523-7
-    pdf: https://arxiv.org/pdf/2501.08909
+    # pdf: https://arxiv.org/pdf/2501.08909
 
   - title: Can Test Generation and Program Repair Inform Automated Assessment of Programming Projects?
     authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
