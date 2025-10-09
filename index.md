@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year PhD student at the University of Sheffield, funded by the School of Computer Science. I am advised by [Dr. José Miguel Rojas](https://jmrojas.github.io/) and [Dr. Donghwan Shin](https://www.dshin.info/home) as a member of [The Testing Research Group](https://www.sheffield.ac.uk/cs/research/groups/testing).
+I am a final-year PhD student at the University of Sheffield, funded by the School of Computer Science. I am advised by [Dr. José Miguel Rojas](https://jmrojas.github.io/) and [Dr. Donghwan Shin](https://www.dshin.info/home) as a member of [AI × Software Engineering and Testing (ASET)](https://www.sheffield.ac.uk/cs/research/groups/testing) research group.
 
 ## Research Interests
 
