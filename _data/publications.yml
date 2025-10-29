@@ -26,21 +26,21 @@ main:
     conference_short: ASEW.
     conference: 40th IEEE/ACM International Conference on Automated Software Engineering Workshops, 2025.
     # doi: 10.1007/s10515-025-00523-7
-    pdf: ./assets/files/Gu2025VARSE.pdf
+    pdf: ./assets/files/varse-1.pdf
 
   - title: "On the Promises and Challenges of AI-Powered XR Glasses as Embodied Software"
     authors: <strong>Ruizhen Gu</strong>, Jingqiong Zhang, José Miguel Rojas, Donghwan Shin
     conference_short: ASE.
     conference: 40th IEEE/ACM International Conference on Automated Software Engineering, 2025.
     # doi: 10.1007/s10515-025-00523-7
-    pdf: ./assets/files/Gu2025AIware.pdf
+    pdf: ./assets/files/AIware-main-12.pdf
 
   - title: "XRintTest: An Automated Framework for User Interaction Testing in Extended Reality Applications"
     authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
     conference_short: ASE.
     conference: 40th IEEE/ACM International Conference on Automated Software Engineering, 2025.
     # doi: 10.1007/s10515-025-00523-7
-    pdf: ./assets/files/ASE_2025_Tool_XRintTest.pdf
+    pdf: ./assets/files/demo-33.pdf
 
   - title: "Software Testing for Extended Reality Applications: A Systematic Mapping Study"
     authors: <strong>Ruizhen Gu</strong>, José Miguel Rojas, Donghwan Shin
